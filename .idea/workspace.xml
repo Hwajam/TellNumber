@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TellNumber" targetName="TellNumber" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec55407b-70e2-4810-83f0-4b1d3a190093" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phoneFunc.c" beforeDir="false" afterPath="$PROJECT_DIR$/phoneFunc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phoneFunc.h" beforeDir="false" afterPath="$PROJECT_DIR$/phoneFunc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenOut.c" beforeDir="false" afterPath="$PROJECT_DIR$/screenOut.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1asuyqH7kfrnXKqIUVqy8saYLmd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TellNumber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TellNumber" TARGET_NAME="TellNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TellNumber" RUN_TARGET_NAME="TellNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec55407b-70e2-4810-83f0-4b1d3a190093" name="Default Changelist" comment="" />
+      <created>1587536880259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587536880259</updated>
+      <workItem from="1587536884716" duration="8411000" />
+      <workItem from="1587624200190" duration="376000" />
+      <workItem from="1587629268094" duration="4380000" />
+      <workItem from="1587810856147" duration="2681000" />
+      <workItem from="1587814356551" duration="4243000" />
+      <workItem from="1588226303010" duration="6135000" />
+      <workItem from="1588329696815" duration="66000" />
+      <workItem from="1588381638627" duration="4311000" />
+      <workItem from="1588471208904" duration="4620000" />
+      <workItem from="1589261666162" duration="4829000" />
+      <workItem from="1589267962287" duration="50000" />
+      <workItem from="1589283826634" duration="853000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fisrt Version">
+      <created>1587545781135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587545781135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fisrt Version 1.1">
+      <created>1587548428629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587548428629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fisrt Version 1.2">
+      <created>1587639174765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587639174765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fisrt Version 1.2">
+      <created>1587639459992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587639459992</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fisrt Version 1.2_1">
+      <created>1587812249478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587812249478</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fisrt Version 1.2_2">
+      <created>1587814337117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587814337117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fisrt Version 1.2_3">
+      <created>1587814417814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587814417814</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fisrt Version 1.2_4">
+      <created>1587816029666</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587816029666</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fisrt Version 1.2_4">
+      <created>1587818695628</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587818695628</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fisrt Version 1.3">
+      <created>1587818720271</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587818720271</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fisrt Version 1.4">
+      <created>1588233045057</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588233045057</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fisrt Version 1.4_1">
+      <created>1588233584301</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588233584301</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fisrt Version 1.5">
+      <created>1588472324205</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588472324206</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fisrt Version 1.5">
+      <created>1588480827478</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1588480827478</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fisrt Version" />
+    <MESSAGE value="Fisrt Version 1.1" />
+    <MESSAGE value="Fisrt Version 1.2" />
+    <MESSAGE value="Fisrt Version 1.2_1" />
+    <MESSAGE value="Fisrt Version 1.2_2" />
+    <MESSAGE value="Fisrt Version 1.2_3" />
+    <MESSAGE value="Fisrt Version 1.2_4" />
+    <MESSAGE value="Fisrt Version 1.3" />
+    <MESSAGE value="Fisrt Version 1.4" />
+    <MESSAGE value="Fisrt Version 1.4_1" />
+    <MESSAGE value="Fisrt Version 1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fisrt Version 1.5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588479784042">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588479784042" />
+    <state x="417" y="72" key="CommitChangelistDialog2" timestamp="1588480827395">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="417" y="72" key="CommitChangelistDialog2/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588480827395" />
+    <state width="472" height="466" key="DebuggerActiveHint" timestamp="1587817007592">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="472" height="466" key="DebuggerActiveHint/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1587817007592" />
+    <state x="703" y="401" key="Github.ShareDialog" timestamp="1587536987206">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="703" y="401" key="Github.ShareDialog/0.23.1680.948@0.23.1680.948" timestamp="1587536987206" />
+    <state x="609" y="202" key="Github.UntrackedFilesDialog" timestamp="1587536993853">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="609" y="202" key="Github.UntrackedFilesDialog/0.23.1680.948@0.23.1680.948" timestamp="1587536993853" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1589267484561">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237099" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1589267484561">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237098" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1589267484560">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237098" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1589267484560" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1589267484561">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237099" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom" timestamp="1588483237100">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237100" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center" timestamp="1588483237100">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237100" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left" timestamp="1588483237099">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237099" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right" timestamp="1588483237100">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237100" />
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2" timestamp="1588480835727">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588480835727" />
+    <state x="525" y="292" key="git4idea.merge.GitPullDialog" timestamp="1588471697235">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="525" y="292" key="git4idea.merge.GitPullDialog/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588471697235" />
+    <state x="505" y="232" width="670" height="681" key="search.everywhere.popup" timestamp="1589262252441">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1587639421561" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1680.948@0.23.1680.948" timestamp="1587538561881" />
+    <state x="505" y="232" width="670" height="681" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1589262252441" />
+  </component>
+</project>

@@ -5,6 +5,7 @@
 #include "common.h"
 #include "phoneData.h"
 #include "screenOut.h"
+#include "phoneFunc.h"
 
 #define LIST_NUM 100
 
@@ -52,6 +53,7 @@ void InputPhoneData(void)
 
     numOfData++;
 
+    StoreDataToFileInStruct();
     puts("The input is complete..");
     getchar();
 }
@@ -174,6 +176,8 @@ void DeletePhoneData(void)
         phoneList[i]=phoneList[i+1];
     }
     numOfData--;
+
+    StoreDataToFileInStruct();
     puts("Deletion is complete.");
     getchar();
 }
@@ -270,6 +274,43 @@ void ChangePhoneData(void)
     gets(newPhoneNumber);
     strcpy(phoneList[delIdx]->phoneNum, newPhoneNumber);
 
+    StoreDataToFileInStruct();
+
     puts("The change has been completed. ");
     getchar();
+}
+
+void StoreDataToFileInStruct(void)
+{
+    int i;
+
+    FILE * fp=fopen("phoneDataStruct.dat", "wb");
+
+    fwrite(&numOfData, sizeof(int), 1, fp);
+
+    for(i=0; i<numOfData; i++)
+    {
+        fwrite(phoneList[i], sizeof(phoneData), 1, fp);
+    }
+
+    fclose(fp);
+}
+
+void LoadDataFromFileInStruct(void)
+{
+    int i;
+
+    FILE * fp=fopen("phoneDataStruct.dat", "rb");
+
+    if(fp==NULL)
+        return;
+
+    fread(&numOfData, sizeof(int), 1, fp);
+
+    for(i=0; i<numOfData; i++)
+    {
+        phoneList[i]=(phoneData*)malloc(sizeof(phoneData));
+        fread(phoneList[i], sizeof(phoneData), 1, fp);
+    }
+    fclose(fp);
 }

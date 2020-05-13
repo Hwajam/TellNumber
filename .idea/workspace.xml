@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="TellNumber" targetName="TellNumber" />
@@ -12,6 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec55407b-70e2-4810-83f0-4b1d3a190093" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Read me!!" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phoneFunc.c" beforeDir="false" afterPath="$PROJECT_DIR$/phoneFunc.c" afterDir="false" />
@@ -42,6 +61,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="TellNumber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TellNumber" TARGET_NAME="TellNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TellNumber" RUN_TARGET_NAME="TellNumber">
@@ -72,6 +98,11 @@
       <workItem from="1589261666162" duration="4829000" />
       <workItem from="1589267962287" duration="50000" />
       <workItem from="1589283826634" duration="853000" />
+      <workItem from="1589296093887" duration="229000" />
+      <workItem from="1589296359640" duration="2000" />
+      <workItem from="1589296439069" duration="23000" />
+      <workItem from="1589298501432" duration="65000" />
+      <workItem from="1589351887108" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="Fisrt Version">
       <created>1587545781135</created>
@@ -177,6 +208,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fisrt Version" />
     <MESSAGE value="Fisrt Version 1.1" />
@@ -192,10 +234,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fisrt Version 1.5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588479784042">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589352006832">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589352006832" />
     <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588479784042" />
+    <state x="561" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589351906983">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="561" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589351906983" />
     <state x="417" y="72" key="CommitChangelistDialog2" timestamp="1588480827395">
       <screen x="0" y="23" width="1680" height="948" />
     </state>
@@ -204,32 +251,38 @@
       <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state width="472" height="466" key="DebuggerActiveHint/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1587817007592" />
-    <state x="703" y="401" key="Github.ShareDialog" timestamp="1587536987206">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state x="703" y="401" key="Github.ShareDialog" timestamp="1589296283504">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state x="703" y="401" key="Github.ShareDialog/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589296283504" />
     <state x="703" y="401" key="Github.ShareDialog/0.23.1680.948@0.23.1680.948" timestamp="1587536987206" />
-    <state x="609" y="202" key="Github.UntrackedFilesDialog" timestamp="1587536993853">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state x="609" y="202" key="Github.UntrackedFilesDialog" timestamp="1589296286823">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state x="609" y="202" key="Github.UntrackedFilesDialog/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589296286823" />
     <state x="609" y="202" key="Github.UntrackedFilesDialog/0.23.1680.948@0.23.1680.948" timestamp="1587536993853" />
-    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1589267484561">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1589298565566">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589298565566" />
     <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237099" />
     <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
-    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1589267484561">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1589298565565">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589298565565" />
     <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237098" />
     <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
-    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1589267484560">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1589298565565">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589298565565" />
     <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237098" />
     <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1589267484560" />
-    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1589267484561">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1589298565566">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589298565566" />
     <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588483237099" />
     <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1589267484561" />
     <state width="1638" height="314" key="GridCell.Tab.1.bottom" timestamp="1588483237100">
@@ -256,6 +309,10 @@
       <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state x="525" y="292" key="git4idea.merge.GitPullDialog/0.23.1680.948/1680.23.1920.1057@0.23.1680.948" timestamp="1588471697235" />
+    <state x="562" y="288" key="refactoring.ChangeSignatureDialog" timestamp="1589352866697">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="562" y="288" key="refactoring.ChangeSignatureDialog/0.23.1680.947/1680.23.1920.1057@0.23.1680.947" timestamp="1589352866697" />
     <state x="505" y="232" width="670" height="681" key="search.everywhere.popup" timestamp="1589262252441">
       <screen x="0" y="23" width="1680" height="954" />
     </state>

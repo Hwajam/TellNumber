@@ -9,7 +9,7 @@
 void ShowMenu(void)
 {
     //system("cls"); //Window
-    system("clear"); //MacOS
+    //system("clear"); //MacOS
 
     printf("----------   MENU   ---------- \n");
     printf(" 1. Input Phone Number \n");

@@ -15,7 +15,8 @@ int main() {
 
     int inputMenu = 0;
 
-    LoadDataFromFile();
+    //LoadDataFromFile();
+    LoadDataFromFileInStruct();
 
     while(1)
     {
@@ -45,7 +46,8 @@ int main() {
 
         if(inputMenu==QUIT)
         {
-            StoreDataToFile();
+            //StoreDataToFile();
+            StoreDataToFileInStruct();
             puts("Thank you");
             break;
         }
